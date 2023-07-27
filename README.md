@@ -25,5 +25,3 @@ I am ALex. I am a crypto enthusiast & python backend developer.
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-
-![visitors](https://visitor-badge.laobi.icu/badge?lacondeguy=lacondeguy)
